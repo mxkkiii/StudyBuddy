@@ -110,7 +110,7 @@ javac -d out src/*.java
 ```
 3. Run the program:
 ```bash
-java -cp out Main
+java -cp out studybuddy.Main
 ```
 4. Use the main menu to add subjects and tasks, generate a schedule, run a What-If Scenario, log sessions, and view the progress report. Choose **Save and Exit** so your data is reloaded on the next run.
 ## Sample Screenshots
